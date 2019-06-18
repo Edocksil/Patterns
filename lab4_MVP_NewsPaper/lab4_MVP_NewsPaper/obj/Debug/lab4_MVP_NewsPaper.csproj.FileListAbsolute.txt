@@ -1,0 +1,7 @@
+C:\Univ\IPZ\lab4_MVP_NewsPaper\lab4_MVP_NewsPaper\bin\Debug\lab4_MVP_NewsPaper.exe.config
+C:\Univ\IPZ\lab4_MVP_NewsPaper\lab4_MVP_NewsPaper\bin\Debug\lab4_MVP_NewsPaper.exe
+C:\Univ\IPZ\lab4_MVP_NewsPaper\lab4_MVP_NewsPaper\bin\Debug\lab4_MVP_NewsPaper.pdb
+C:\Univ\IPZ\lab4_MVP_NewsPaper\lab4_MVP_NewsPaper\obj\Debug\lab4_MVP_NewsPaper.csprojAssemblyReference.cache
+C:\Univ\IPZ\lab4_MVP_NewsPaper\lab4_MVP_NewsPaper\obj\Debug\lab4_MVP_NewsPaper.csproj.CoreCompileInputs.cache
+C:\Univ\IPZ\lab4_MVP_NewsPaper\lab4_MVP_NewsPaper\obj\Debug\lab4_MVP_NewsPaper.exe
+C:\Univ\IPZ\lab4_MVP_NewsPaper\lab4_MVP_NewsPaper\obj\Debug\lab4_MVP_NewsPaper.pdb

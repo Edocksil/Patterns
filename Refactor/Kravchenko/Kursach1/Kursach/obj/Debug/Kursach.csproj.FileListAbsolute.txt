@@ -1,0 +1,60 @@
+D:\навчання\лаби прога\Kursach\Kursach\bin\Debug\Kursach.exe.config
+D:\навчання\лаби прога\Kursach\Kursach\obj\Debug\Kursach.Form1.resources
+D:\навчання\лаби прога\Kursach\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\навчання\лаби прога\Kursach\Kursach\obj\Debug\Kursach.csproj.GenerateResource.Cache
+D:\навчання\лаби прога\Kursach\Kursach\bin\Debug\Kursach.exe
+D:\навчання\лаби прога\Kursach\Kursach\bin\Debug\Kursach.pdb
+D:\навчання\лаби прога\Kursach\Kursach\obj\Debug\Kursach.exe
+D:\навчання\лаби прога\Kursach\Kursach\obj\Debug\Kursach.pdb
+D:\навчання\лаби прога\Kursach\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\навчання\лаби прога\Kursach\Kursach\obj\Debug\Kursach.About.resources
+D:\навчання\лаби прога\Kursach\Kursach\obj\Debug\Kursach.Help.resources
+D:\навчання\лаби прога\Kursach1\Kursach\bin\Debug\Kursach.exe.config
+D:\навчання\лаби прога\Kursach1\Kursach\obj\Debug\Kursach.exe
+D:\навчання\лаби прога\Kursach1\Kursach\obj\Debug\Kursach.pdb
+D:\навчання\лаби прога\Kursach1\Kursach\obj\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\навчання\лаби прога\Kursach1\Kursach\obj\Debug\Kursach.About.resources
+D:\навчання\лаби прога\Kursach1\Kursach\obj\Debug\Kursach.Form1.resources
+D:\навчання\лаби прога\Kursach1\Kursach\obj\Debug\Kursach.Help.resources
+D:\навчання\лаби прога\Kursach1\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\навчання\лаби прога\Kursach1\Kursach\obj\Debug\Kursach.csproj.GenerateResource.Cache
+D:\навчання\лаби прога\Kursach1\Kursach\bin\Debug\Kursach.exe
+D:\навчання\лаби прога\Kursach1\Kursach\bin\Debug\Kursach.pdb
+C:\!Vira\!Work\CE1_Kursovi2015\GordunBeap\Kursach1\Kursach\bin\Debug\Kursach.exe.config
+C:\!Vira\!Work\CE1_Kursovi2015\GordunBeap\Kursach1\Kursach\obj\Debug\Kursach.exe
+C:\!Vira\!Work\CE1_Kursovi2015\GordunBeap\Kursach1\Kursach\obj\Debug\Kursach.pdb
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\bin\Debug\Kursach.exe.config
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\bin\Debug\Kursach.exe
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\bin\Debug\Kursach.pdb
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.About.resources
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.Form1.resources
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.Help.resources
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.exe
+C:\Univ\IPZ\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.pdb
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\Kursach.exe.config
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\Kursach.exe
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\Kursach.pdb
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.About.resources
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.Form1.resources
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.Help.resources
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.csproj.GenerateResource.cache
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.exe
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.pdb
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\nunit.framework.dll
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\nunit.framework.pdb
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\bin\Debug\nunit.framework.xml
+C:\Univ\IPZ\Refactor\Kravchenko\Kursach1\Kursach\obj\Debug\Kursach.csproj.CopyComplete

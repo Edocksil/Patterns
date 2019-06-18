@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kursach", "..\Kravchenko\Kursach1\Kursach\Kursach.csproj", "{44343177-E37A-4384-B5C8-40B4D2A92FED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeapTest", "UnitTestProject1\BeapTest.csproj", "{66390711-C144-4121-AD80-8E4734F6C61F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44343177-E37A-4384-B5C8-40B4D2A92FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44343177-E37A-4384-B5C8-40B4D2A92FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44343177-E37A-4384-B5C8-40B4D2A92FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44343177-E37A-4384-B5C8-40B4D2A92FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66390711-C144-4121-AD80-8E4734F6C61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66390711-C144-4121-AD80-8E4734F6C61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66390711-C144-4121-AD80-8E4734F6C61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66390711-C144-4121-AD80-8E4734F6C61F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A23C01-F75E-45A6-AE26-450534C96DA9}
+	EndGlobalSection
+EndGlobal

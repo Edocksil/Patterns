@@ -1,0 +1,7 @@
+C:\Univ\IPZ\lab3_NetworKing\lab3_NetworKing\bin\Debug\lab3_NetworKing.exe.config
+C:\Univ\IPZ\lab3_NetworKing\lab3_NetworKing\bin\Debug\lab3_NetworKing.exe
+C:\Univ\IPZ\lab3_NetworKing\lab3_NetworKing\bin\Debug\lab3_NetworKing.pdb
+C:\Univ\IPZ\lab3_NetworKing\lab3_NetworKing\obj\Debug\lab3_NetworKing.csprojAssemblyReference.cache
+C:\Univ\IPZ\lab3_NetworKing\lab3_NetworKing\obj\Debug\lab3_NetworKing.csproj.CoreCompileInputs.cache
+C:\Univ\IPZ\lab3_NetworKing\lab3_NetworKing\obj\Debug\lab3_NetworKing.exe
+C:\Univ\IPZ\lab3_NetworKing\lab3_NetworKing\obj\Debug\lab3_NetworKing.pdb

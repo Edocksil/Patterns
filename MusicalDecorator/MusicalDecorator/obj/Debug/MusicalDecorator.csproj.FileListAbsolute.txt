@@ -1,0 +1,7 @@
+C:\Univ\IPZ\MusicalDecorator\MusicalDecorator\bin\Debug\MusicalDecorator.exe.config
+C:\Univ\IPZ\MusicalDecorator\MusicalDecorator\bin\Debug\MusicalDecorator.exe
+C:\Univ\IPZ\MusicalDecorator\MusicalDecorator\bin\Debug\MusicalDecorator.pdb
+C:\Univ\IPZ\MusicalDecorator\MusicalDecorator\obj\Debug\MusicalDecorator.csprojAssemblyReference.cache
+C:\Univ\IPZ\MusicalDecorator\MusicalDecorator\obj\Debug\MusicalDecorator.csproj.CoreCompileInputs.cache
+C:\Univ\IPZ\MusicalDecorator\MusicalDecorator\obj\Debug\MusicalDecorator.exe
+C:\Univ\IPZ\MusicalDecorator\MusicalDecorator\obj\Debug\MusicalDecorator.pdb

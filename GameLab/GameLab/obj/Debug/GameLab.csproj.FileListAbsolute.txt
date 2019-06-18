@@ -1,0 +1,10 @@
+C:\Univ\IPZ\GameLab\GameLab\bin\Debug\GameLab.exe.config
+C:\Univ\IPZ\GameLab\GameLab\bin\Debug\GameLab.exe
+C:\Univ\IPZ\GameLab\GameLab\bin\Debug\GameLab.pdb
+C:\Univ\IPZ\GameLab\GameLab\obj\Debug\GameLab.Form1.resources
+C:\Univ\IPZ\GameLab\GameLab\obj\Debug\GameLab.Properties.Resources.resources
+C:\Univ\IPZ\GameLab\GameLab\obj\Debug\GameLab.csproj.GenerateResource.cache
+C:\Univ\IPZ\GameLab\GameLab\obj\Debug\GameLab.csproj.CoreCompileInputs.cache
+C:\Univ\IPZ\GameLab\GameLab\obj\Debug\GameLab.exe
+C:\Univ\IPZ\GameLab\GameLab\obj\Debug\GameLab.pdb
+C:\Univ\IPZ\GameLab\GameLab\obj\Debug\GameLab.csprojAssemblyReference.cache
